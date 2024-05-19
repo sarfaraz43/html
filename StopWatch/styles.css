@@ -14,7 +14,7 @@
     justify-content: center;
     font-family: Arial, sans-serif;
     text-align: center;
-    background-color: #f1e2e2;
+    background-color: #3c1818;
 }
 
 .container {
@@ -22,7 +22,7 @@
   margin: 0;
   padding: 2rem;
   border-radius: 20px;
-  background-color: #20a9d7;
+  background-color: #485255;
 }
 
 .stopwatch {
@@ -48,7 +48,7 @@
 .laps li {
   text-align: left;
   padding: 5px 10px;
-  background-color: #f1e2e2;
+  background-color: #3b2020;
   border-radius: 3px;
   margin-bottom: 5px;
 }
