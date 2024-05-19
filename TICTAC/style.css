@@ -11,7 +11,7 @@ body {
   background-image: url(Image.jpg)
 }
 
-.wrapper {
+.rabbani {
   position: absolute;
   transform: translate(-50%,-50%);
   top: 50%;
@@ -27,20 +27,20 @@ body {
 }
 
 .button-option {
-  background: #ffffff;
+  background: #e7dba3;
   height: 22vmin;
   width: 22vmin;
   border: none;
-  border-radius: 8px;
+  border-radius: 6px;
   font-size: 12vmin;
-  color: #246fb1;
+  color: #1c7fe2;
   box-shadow: 0 0 15px rgba(209, 46, 46, 0.1);
 }
 
 #restart {
   font-size: 1.3em;
   padding: 1em;
-  border-radius: 8px;
+  border-radius: 6px;
   background-color: #00376b;
   color: #799a00;
   border: none;
@@ -50,28 +50,30 @@ body {
 }
 
 .popup {
-  background: linear-gradient(135deg, #b3a3d6, #86a459);
+  background: linear-gradient(135deg, #5e517a, #479b69);
   height: 100%;
   width: 100%;
   position: absolute;
   display: flex;
-  z-index: 2;
+  z-index: 4;
   align-items: center;
   justify-content: center;
   flex-direction: column;
   gap: 1em;
   font-size: 12vmin;
 }
+
 #new-game {
   font-size: 0.6em;
   padding: 0.5em 1em;
-  background-color: #589f78;
-  color: #b0e60f;
+  background-color: #17f0d3;
+  color: #b4e3a7;
   border-radius: 0.2em;
   border: none;
 }
+
 #message {
-  color: #ffffff;
+  color: #4e4848;
   text-align: center;
   font-size: 1em;
 }
