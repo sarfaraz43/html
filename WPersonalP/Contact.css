@@ -54,6 +54,13 @@ a {
     padding: 100px 0px;
 }
 
+/* .hire-btn {
+    background-color: #80ff75;
+    color: aliceblue;
+    padding: 10px 15px;
+    border-radius: 10%;
+} */
+
 .intro>.name-heading {
     font-size: 40px;
     font-weight: 900;
@@ -161,6 +168,38 @@ a {
     font-size: 40px;
     font-weight: 600;
 }
+
+/* .project-title {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.card {
+    width: 20rem;
+    height: 33rem;
+    padding: 30px;
+    margin: 20px;
+}
+
+.card-title {
+    font-weight: 600;
+}
+
+.projects>h1 {
+    text-align: center;
+    font-weight: 700;
+    padding: 20px;
+}
+
+.read-btn-projects {
+    display: inline-block;
+    margin: 50px;
+    padding: 10px 35px;
+    background-color: #208c5a;
+    color: #ffffff;
+    border-radius: 35px;
+} */
 
 .myinfo-container {
     background-color: #208c6c;
